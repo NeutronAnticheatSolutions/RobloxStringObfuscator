@@ -189,13 +189,13 @@ if v == "d" then
 table.insert(finalresulttable, "w")
 end
 if v == "c" then
-table.insert(finalresulttable, "x)
+table.insert(finalresulttable, "x")
 end
 if v == "b" then
-table.insert(finalresulttable, "y)
+table.insert(finalresulttable, "y")
 end
 if v == "a" then
-table.insert(finalresulttable, "z)
+table.insert(finalresulttable, "z")
 end
       end
 return table.concat(finalresulttable)
