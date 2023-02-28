@@ -197,11 +197,10 @@ end
 if v == "a" then
 table.insert(finalresulttable, "z)
 end
-end
+      end
 return table.concat(finalresulttable)
 
 -- / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
 -- congrats, you're deobfuscated! (kinda like ironbrew xd)
 -- / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / / /
-
 end
